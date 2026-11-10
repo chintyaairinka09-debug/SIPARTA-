@@ -1,0 +1,5 @@
+/uploads/*
+!/uploads/.htaccess
+!/uploads/.gitkeep
+/storage/*
+!/storage/.htaccess
